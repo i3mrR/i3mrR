@@ -3,6 +3,5 @@
 - 📫 How to reach me ...
 
 
-- name: Profile Readme Stats
-  uses: teoxoy/profile-readme-stats@v1.2
 
+![image](https://user-images.githubusercontent.com/55211391/182562430-68371f60-6f67-49d6-a39d-fce9991a0da1.png)
