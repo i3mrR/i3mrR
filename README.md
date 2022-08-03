@@ -3,5 +3,4 @@
 - 📫 How to reach me ...
 
 
-
-![gif]([https://user-images.githubusercontent.com/55211391/182562430-68371f60-6f67-49d6-a39d-fce9991a0da1.png](https://c.tenor.com/y5UMvq73fUgAAAAC/seth-meyers-freakin-great-idea.gif))
+![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://c.tenor.com/y5UMvq73fUgAAAAC/seth-meyers-freakin-great-idea.gif))
