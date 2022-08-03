@@ -1,4 +1,8 @@
 - 👋 Hi, I’m @i3mrR
 - 👀 I’m interested in ...
 - 📫 How to reach me ...
-![image](https://user-images.githubusercontent.com/55211391/182561088-4f801772-a3c8-40f3-bef1-cf7651b3a015.png)
+
+
+- name: Profile Readme Stats
+  uses: teoxoy/profile-readme-stats@v1.2
+
