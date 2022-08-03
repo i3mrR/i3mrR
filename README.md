@@ -3,4 +3,4 @@
 - 📫 How to reach me ...
 
 
-![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://c.tenor.com/y5UMvq73fUgAAAAC/seth-meyers-freakin-great-idea.gif))
+![]([https://c.tenor.com/y5UMvq73fUgAAAAC/seth-meyers-freakin-great-idea.gif])
