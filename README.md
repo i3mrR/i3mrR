@@ -2,7 +2,7 @@
 
 ### Offensive Security Specialist · Penetration Tester · Bug Bounty Hunter
 
-I find and exploit security weaknesses so organizations can fix them before attackers do. My work covers penetration testing, vulnerability research and exploit development across **web apps, mobile apps, networks and Active Directory**.
+ My work covers penetration testing, vulnerability research and exploit development across **web apps, mobile apps, networks and Active Directory**.
 
 - 🔍 Active **Bugcrowd** researcher, responsibly disclosing vulnerabilities across multiple platforms
 - 🛠️ Building tooling that automates security testing and prioritizes remediation
